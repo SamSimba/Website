@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Contact us at I want flowers</title>
+    <script src="js/script.js"></script>
+  </head>   
+  <body>
+  
+    <link  href= "css/style.css" rel="stylesheet" type="text/css">
+  
+    <div class="navbar">  
+    <a href="index.html">Home</a>
+    <a href="product.html">Products</a>
+    <a href="store.html">Store locations</a>
+    <img class="images" src="./images/logo.png" alt="flowers">
+  </div>
+   
+  <div class="home">
+      <h1>Contact Information</h1>
+      <br>
+  </div>
+      
+  <div class="contact">
+      <h2>Contact Us</h2><br>
+  </div>   
+  
+ <main class="main2">
+  <p>Please fill out this form to  email us at:</p>
+      <a  href="mailto:website@IWantFlowers.com.au">website@IWantFlowers.com.au<br></a><br>
+      <form name="myform" method="post" onsubmit="return validateform()">
+      <label for="name">Name:</label><br>
+          <input type="text" id="name" name="name"><br>
+          <div class="error-panel" id="name-err">Please enter your name</div><br>
+          <label for="email">Email:</label><br>
+          <input type="email" id="email" name="email"><br>
+          <div class="error-panel" id="email-err">Please enter your email</div><br>
+        <label for="message">Message:</label><br>
+          <textarea id="message" name="message" rows="10" cols="65"></textarea><br>
+          <div class="error-panel" id="message-err">Please enter your message:</div><br>
+           <button type="submit" >Submit</button><br><br>
+        </form>
+      </main>
+
+  <footer>
+    <p class="footer">  <strong>&copy; Copyright 2021, I want flowers by Sam Befekadu. All rights reserved </strong> 
+  </footer>
+ </body>
+</html>
+
