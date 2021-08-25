@@ -5,11 +5,11 @@ Hi there, I'm Sam a junior front end devloper who started coding last year. This
 
 
 
-# What is I want flowers?
+## What is I want flowers?
 I want flowers website is about a flourist business that wants a website that contains flowers.
 
 
-# What is implemented?
+### What is implemented?
 The website incopartes html , css , and javascript. The main focus is to build a website that shows these 3 fundamentals. 
 
 
