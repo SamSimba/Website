@@ -4,9 +4,7 @@
 
 Hi there, I'm Sam a junior front end devloper who started coding last year. This is my first website that i created , and the image above is the main home page of the website.
 
-
-
-
+<br>
 ## What is I want flowers?
 I want flowers website is about a flourist business that wants a website that contains flowers.
 
