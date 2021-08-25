@@ -1,6 +1,7 @@
- # Website I want flowers
+<p align="center"> # Website I want flowers
 <img src="Website/images/Github image.PNG">
 <br></br>
+</p>
 
 
 
