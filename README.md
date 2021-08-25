@@ -1,9 +1,11 @@
-                                                 # Website I want flowers
+ # Website I want flowers
 <img src="Website/images/Github image.PNG">
+<br></br>
 
 
 
-Hi there, I'm Sam a junior front end devloper who started coding last year. This is my first website that i created , and the image above is the main home page of the website.<br></br>
+Hi there, I'm Sam a junior front end devloper who started coding last year. This is my first website that i created , and the image above is the main home page of the website.
+<br></br>
 
 
 ## What is I want flowers?
